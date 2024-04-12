@@ -1,5 +1,5 @@
 # Git Pushers
-
+![Logo](admin/branding/logo.jpg)
 ## Members 
 Kevin Truong: I am a third year computer science major transfer. My biggest interests are game design and ai. [Github Page](https://github.com/azuk132435) \
 Brian Wen: I am a third year computer science transfer in Marshall. My interests are Computer Graphics and Natural Lanaguage Processing. [Github Page](https://github.com/briannwhen)
