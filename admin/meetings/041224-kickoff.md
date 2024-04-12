@@ -42,16 +42,16 @@
 - **Notes:**
   - *Introductions & Ice-Breaker*
   - *Management*
-    - Define Roles - people can have multiple roles?
+    - Roles - People are allowed to have multiple roles. This ensures they can on work on different tasks and aren't confined to doing only one type of work.
       - Leaders
           - Nikhil and Ishan
       - Designer
           - Brian Wen
       - Developer
-          -
+          - Kevin Truong, Zhamilya Shakirova, Newton Chung, Charlotte Dong, Liam Mohler, Matthew Hoppe
       - Planner   
         - Notes, Deadlines, Github/Issue Tracker
-        - Zilin Liu, Charlotte Dong
+        - Zilin Liu
     - Team Contract & Rules of Development
         - 
     - Define Meeting Structure
@@ -68,15 +68,13 @@
       - Logo/Icon: ![logo](https://github.com/cse110-sp24-group31/cse110-sp24-group31/blob/main/admin/branding/logo.jpg)
     - team.md File (assign people)
     - Team Name
-        - **Git Pushers**
-    - Brand
-        - 
+        - After presenting multiple names and voting on them, decided on **Git Pushers**
     - Values
-        -  
-    - Team Roster (names, bio, github link) 
-        - 
+        -  Collaboration, Quality, Transparency, Accountability, Respect, Customer Focus
   - *Intro Video*
+    - Every person will send in a 20 second clip introducing themselves. One of us will compile and edit the video.
   - *Assign Action Items*
+  - 
   - *Next Steps and Conclusion*
 
 ## Action Items
