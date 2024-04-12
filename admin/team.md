@@ -8,7 +8,7 @@ Gavin Guyal: [Github Page]\
 Ishan: I'm a second year computer science major interested in pursuing AI as a career. [Github Page](https://github.com/Ishxn20)
 
 Liam Mohler: [Github Page]\
-Newton Chung: [Github Page]\
+Newton Chung: I am a third year math-cs major pursuing a career in software development, though I'm still considering other areas in computer science. [Github Page](https://newtonlc.github.io/CSE110/)\
 Nikhil Mahendran: I am a second year cs major and am perusing a career within CyberSecurity [Github Page]\
 Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. [Github Page](https://github.com/zshakirova)\
 Zilin Liu: [Github Page]\
