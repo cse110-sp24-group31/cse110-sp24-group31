@@ -1,6 +1,6 @@
-#Git Pushers
+# Git Pushers
 
-##Members 
+## Members 
 Kevin Truong: I am a third year computer science major transfer. I want to go into either more game design or ai related fields in the future. [Github Page](https://github.com/azuk132435) \
 Brian Wen: [Github Page] \
 Charlotte Dong: Charlotte Dong: would like to try front end or designer. I have team lead and backend experience and I am a third year Computer Engineering major. [Github Page]\
