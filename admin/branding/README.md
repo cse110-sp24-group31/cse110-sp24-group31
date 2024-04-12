@@ -5,5 +5,4 @@
 ## Team Colors
 grey, white and blue
 
-##T
 
