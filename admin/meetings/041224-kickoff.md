@@ -27,12 +27,19 @@
 - **Type:** Kickoff Meeting
 - **Attendance:**
   - ***Present:***
-    1. 
+    1. Nikhil Mahendran
+    2. Charlotte Dong
+    3. Brian Wen
+    4. Kevin Truong
+    5. Newton Chung
+    6. Zhamilya Shakirova
+    7. Ishan Vaish
+    8. 
   - ***Absent:***
-    1. 
+    1. Zilin Liu
+    2. Liam Mohler
 - **Notes:**
   - *Introductions & Ice-Breaker*
-      - 
   - *Management*
     - Define Roles - people can have multiple roles?
       - Leader
@@ -41,9 +48,9 @@
           - 
       - Developer
           -
-      - At-Large   
+      - Planner   
         - Notes, Deadlines, Github/Issue Tracker
-        - 
+        - Zilin Liu, Charlotte Dong
     - Team Contract & Rules of Development
         - 
     - Define Meeting Structure
@@ -53,32 +60,23 @@
             - What the plan for the coming week is?
             - What issues they have run into/update issue tracker?
   - *Team Branding Discussion*
-    - Team Identity
-        - Team name (Write name ideas, then vote by writing name under idea)
+    - Team Identity  
     - Branding Materials
-      - Team Colors https://coolors.co/palettes
-          - 
-      - Logo/Icon - must feature team number prominently and be set as Slack workspace icon
-  - *Work on Team Page*
+      - Team Colors: **Navy Blue**
+      - Logo/Icon: ![logo](admin/branding/logo.jpg)
     - team.md File (assign people)
     - Team Name
-        - 
+        - **Git Pushers**
     - Brand
         - 
     - Values
-        - 
+        -  
     - Team Roster (names, bio, github link) 
         - 
   - *Intro Video*
     - 
   - *Assign Action Items*
   - *Next Steps and Conclusion*
-- **Items for Future Investigation:**
-  - 
-- **Decisions Made:**
-  - 
-- **Meeting Conclusion:** 
-    - 
 
 ## Action Items
 
@@ -89,10 +87,3 @@
 - [ ] Check if Canvas specifications / deadlines will be hit
 - [ ] Update Github folder with today's meeting notes /admin/meetings/kickoffNotes.md
 - [ ] Set up regular meetings
-
-## Next Meeting
-
-- **Date:** 
-- **Time:** 
-- **Location:** 
-- **Goals** 
