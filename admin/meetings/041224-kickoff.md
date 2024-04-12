@@ -89,6 +89,8 @@
     - Every person will send in a 20 second clip introducing themselves.
 
   - *Next Steps and Conclusion*
+    - Finish recording and editing team video.
+    - Make sure the github repo is ready with all required documents and materials. 
 
 ## Action Items
 
