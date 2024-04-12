@@ -2,7 +2,7 @@
 ![Logo](branding/logo.jpg)
 ## Members 
 Kevin Truong: I am a third year computer science major transfer. My biggest interests are game design and ai. [Github Page](https://github.com/azuk132435) \
-Brian Wen: I am a third year computer science transfer in Marshall. My interests are Computer Graphics and Natural Lanaguage Processing. [Github Page](https://github.com/briannwhen)
+Brian Wen: I am a third year computer science transfer in Marshall. My interests are Computer Graphics and Natural Lanaguage Processing. [Github Page](https://github.com/briannwhen)\
 Charlotte Dong: I am a third year Computer Engineering major. I love solving puzzles. [Github Page](https://github.com/charl0ttedqy/CSE110)\
 Gavin Guyal: [Github Page]\
 Ishan Vaish: I'm a second year computer science major interested in pursuing AI as a career. [Github Page](https://github.com/Ishxn20) \
