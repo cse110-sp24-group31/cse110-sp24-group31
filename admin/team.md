@@ -9,5 +9,5 @@ Ishan: [Github Page]\
 Liam Mohler: [Github Page]\
 Newton Chung: [Github Page]\
 Nikhil Mahendran: I am a second year cs major and am perusing a career within CyberSecurity [Github Page]\
-Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. Here is link to my github page: [Github Page](https://github.com/zshakirova)\
+Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. [Github Page](https://github.com/zshakirova)\
 Zilin Liu: [Github Page]\
