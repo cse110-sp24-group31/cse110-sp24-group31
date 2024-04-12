@@ -12,3 +12,9 @@ Newton Chung: I am a third year math-cs major pursuing a career in software deve
 Nikhil Mahendran: I am a second year cs major and am perusing a career within CyberSecurity [Github Page]\
 Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. [Github Page](https://github.com/zshakirova)\
 Zilin Liu: [Github Page]\
+
+### Team Values
+* Teamwork: Make sure everyone is involved at all times and contributing to the group
+* Communication: Thoroughly talk through and plan everything before we take aciton. The best way to achieve success is through communication and proper planning.
+* Flexibility: Everyone has different schedules and things going on in life. We value this and present lots of flexibilty to make sure everyone can participate.
+* Professionalism: The success of everyone is dependent on everyone. Everyone is expected to try their best to complete their tasks.
