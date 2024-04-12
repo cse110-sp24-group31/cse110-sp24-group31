@@ -65,7 +65,7 @@
     - Team Identity  
     - Branding Materials
       - Team Colors: **Navy Blue**
-      - Logo/Icon: ![logo](admin/branding/logo.jpg)
+      - Logo/Icon: ![logo](https://github.com/cse110-sp24-group31/cse110-sp24-group31/blob/main/admin/branding/logo.jpg)
     - team.md File (assign people)
     - Team Name
         - **Git Pushers**
