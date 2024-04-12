@@ -1,4 +1,4 @@
-# KICKOFF MEETING
+# MEETING 1
 
 - **Date:** 4/12/2024 
 - **Time:** 12:30-13:30pm
@@ -6,25 +6,25 @@
 
 ## Agenda
 
-1. Introductions & Ice-Breaker (10 minutes)
+1. Introductions & Ice-Breaker
 2. Management
    1. Define Roles
    2. Team Contract & Rules of Development
-   4. Define Meeting Structure
+   3. Define Meeting Structure
 3. Team Branding Discussion
 4. Work on Team Page
-5. Intro Video Ideas
+5. Introduction Video Ideas
 6. Assign Action Items
-7. Next Steps and Conclusion
+7. Next Steps
 
 ## To-Do
 
 - [x] EVERYONE list your GitHub username and profile.
 
-
 ## Meeting Notes
 
 - **Type:** Kickoff Meeting
+
 - **Attendance:**
   - ***Present:***
     1. Nikhil Mahendran
@@ -34,18 +34,19 @@
     5. Newton Chung
     6. Zhamilya Shakirova
     7. Ishan Vaish
-    8. 
+       
   - ***Absent:***
     1. Zilin Liu
     2. Liam Mohler
+
 - **Notes:**
   - *Introductions & Ice-Breaker*
   - *Management*
     - Define Roles - people can have multiple roles?
-      - Leader
-          - 
+      - Leaders
+          - Nikhil and Ishan
       - Designer
-          - 
+          - Brian Wen
       - Developer
           -
       - Planner   
@@ -59,6 +60,7 @@
             - What they did in the previous week?
             - What the plan for the coming week is?
             - What issues they have run into/update issue tracker?
+              
   - *Team Branding Discussion*
     - Team Identity  
     - Branding Materials
@@ -74,7 +76,6 @@
     - Team Roster (names, bio, github link) 
         - 
   - *Intro Video*
-    - 
   - *Assign Action Items*
   - *Next Steps and Conclusion*
 
