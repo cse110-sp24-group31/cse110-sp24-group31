@@ -3,7 +3,7 @@
 ## Members 
 Kevin Truong: I am a third year computer science major transfer. My biggest interests are game design and ai. [Github Page](https://github.com/azuk132435) \
 Brian Wen: [Github Page] \
-Charlotte Dong: I would like to try front end or designer. I have team lead and backend experience and I am a third year Computer Engineering major. [Github Page]\
+Charlotte Dong: I am a third year Computer Engineering major. I love solving puzzles. [Github Page](https://github.com/charl0ttedqy/CSE110)\
 Gavin Guyal: [Github Page]\
 Ishan: I'm a second year computer science major interested in pursuing AI as a career. [Github Page](https://github.com/Ishxn20)
 
