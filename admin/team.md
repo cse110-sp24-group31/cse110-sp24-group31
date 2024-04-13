@@ -10,7 +10,7 @@ Liam Mohler: I'm a second year cs major in Marshall. Currently, im interesting i
 Newton Chung: I am a third year math-cs major pursuing a career in software development, though I'm still considering other areas in computer science. [Github Page](https://newtonlc.github.io/CSE110/)\
 Nikhil Mahendran: I am a second year cs major and am perusing a career within CyberSecurity [Github Page]\
 Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. [Github Page](https://github.com/zshakirova)\
-Zilin Liu: [Github Page]
+Zilin Liu: [github](https://github.com/kiminus). I am second year Computer Engineering major. My interest is game design 
 
 ### Team Values
 * Teamwork: Make sure everyone is involved at all times and contributing to the group
