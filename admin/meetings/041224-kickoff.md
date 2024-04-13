@@ -50,7 +50,7 @@
       - Designer
           - Brian Wen
       - Developer
-          - Kevin Truong, Zhamilya Shakirova, Newton Chung, Charlotte Dong, Liam Mohler, Matthew Hoppe
+          - Kevin Truong, Zhamilya Shakirova, Newton Chung, Charlotte Dong, Liam Mohler, Matthew Hoppe, Gavin Guyal
       - Planner   
         - Notes, Deadlines, Github/Issue Tracker
         - Zilin Liu
