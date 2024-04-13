@@ -34,6 +34,7 @@
     5. Newton Chung
     6. Zhamilya Shakirova
     7. Ishan Vaish
+    8. Gavin Guyal
        
   - ***Absent:***
     1. Zilin Liu
