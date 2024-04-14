@@ -15,7 +15,7 @@ Liam Mohler: I'm a second year cs major in Marshall. Currently, im interesting i
 
 Newton Chung: I am a third year math-cs major pursuing a career in software development, though I'm still considering other areas in computer science. [Github Page](https://newtonlc.github.io/CSE110/)
 
-Nikhil Mahendran: I am a second year cs major and am perusing a career within CyberSecurity [Github Page]
+Nikhil Mahendran: I am a second year cs major and am pursuing a career within CyberSecurity [Github Page](https://github.com/NikhilMahendran)
 
 Zhamilya Shakirova: Hi! I’m Zhami, a second-year computer science student. I’m international student from Kazakhstan. [Github Page](https://github.com/zshakirova)
 
