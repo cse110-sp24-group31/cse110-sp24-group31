@@ -98,7 +98,7 @@
 - [x] Branding Materials -  /admin/branding
 - [x] Slack Workspace Icon
 - [x] Team page - /admin/team.md, Link from README
-- [ ] Team video - /admin/videos/teamintro.mp4
+- [x] Team video - /admin/videos/teamintro.mp4
 - [x] Check if Canvas specifications / deadlines will be hit
 - [x] Update Github folder with today's meeting notes /admin/meetings/kickoffNotes.md
 - [x] Set up regular meetings
