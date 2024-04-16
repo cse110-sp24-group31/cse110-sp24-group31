@@ -30,5 +30,4 @@ If a team member fails to meet the expectaions listed staff memebers will get in
 
 ### **7.Signature**
 
----
-Full name
+
