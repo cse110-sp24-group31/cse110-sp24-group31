@@ -41,5 +41,7 @@ If a team member fails to meet the expectations listed, staff memebers will get 
 
 ### **7. Signature**
 
-Newton Chung
-Nikhil Mahendran
+- Newton Chung
+- Nikhil Mahendran
+- Ishan Vaish
+
