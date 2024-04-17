@@ -41,4 +41,4 @@ If a team member fails to meet the expectations listed, staff memebers will get 
 
 ### **7. Signature**
 
-![image](/signatures/charlottesignature.jpg)
+![image](admin/misc/signatures/charlottesignature.jpg)
