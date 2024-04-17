@@ -40,5 +40,4 @@ For example: If a member fails to do their part consistently for certain group a
 If a team member fails to meet the expectations listed, staff memebers will get involved. The team will still be responsible for completing the group assignments accordingly, filling in for the missing person's work. However once presented, staff will come in and discuss the issue in attempts to resolve any disputes. 
 
 ### **7. Signature**
-
-![image](admin/misc/signatures/charlottesignature.jpg)
+**Charlotte Dong**
