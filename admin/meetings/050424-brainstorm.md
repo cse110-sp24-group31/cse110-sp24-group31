@@ -32,6 +32,6 @@ We succesfully had a majority meeting creating and outlining what was expected f
 - If time permits, search up which features are likely doable with our specifications to know which features we want to focus on.
 
 ## Next Steps:
-Try to get comfortable andg et to know the person you are working with. Set up schedules that allow better collaboration. Work on the formal pitch slides/pdf in order to present to the TA for confirmation on the project. Set up everything on Github that is needed to help us get started procedurally.
+Try to get comfortable and get to know the person you are working with. Set up schedules that allow better collaboration. Work on the formal pitch slides/pdf in order to present to the TA for confirmation on the project. Set up everything on Github that is needed to help us get started procedurally.
 
 
