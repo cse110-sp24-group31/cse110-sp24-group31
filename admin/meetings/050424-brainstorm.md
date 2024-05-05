@@ -27,7 +27,7 @@ We succesfully had a majority meeting creating and outlining what was expected f
   
 
 ## Action Items:
-- Primarily Nikhil and Ishan working on the slide decks in order to present to the TA. Full access was made to everyone so if you can contribute, please do.
+- Primarily Nikhil and Ishan are working on the slide decks in order to present to the TA. Full access was made to everyone so if you can contribute, please do.
 - Everyone: get to know who you are working with and set up a basic shcedule that you plan on working with.
 - If time permits, search up which features are likely doable with our specifications to know which features we want to focus on.
 
