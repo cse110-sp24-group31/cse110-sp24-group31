@@ -1,7 +1,7 @@
 ## Final Project Planner and Designer Meeting
 **Attendees: Charlotte, Nikhil**\
 
-**Planning Timeline: **
+**Planning Timeline: **\
 Wk 6: design, assign tasks to dev\
 Wk 7: prio tasks: calendar, project tasks, ui, (search,  progress bar, customized color palette)
 Wk 8: 
