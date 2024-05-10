@@ -1,5 +1,6 @@
 ## Final Project Planner and Designer Meeting
-**Attendees: Charlotte, Nikhil**\
+
+**Attendees: Charlotte, Nikhil**
 
 **Planning Timeline: **\
 Wk 6: design, assign tasks to dev\
