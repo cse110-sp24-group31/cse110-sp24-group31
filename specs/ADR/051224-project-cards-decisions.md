@@ -1,46 +1,49 @@
 ---
-# These are optional elements. Feel free to remove any of them.
-status: '{proposed}'
-date: { 2024-05-12 }
-deciders: { ishan, zilin, liam }
-consulted: { nikhil }
-informed: { everyone }
+Status: Accepted
+Date: 2024-05-10
+Deciders: Ishan, Zilin, Liam
+Consulted: Nikhil
+Informed: Everyone
 ---
 
-# project cards setup
+# Project Cards Setup
 
 ## Context and Problem Statement
 
-- each project card should fulfill the following requirements:
-  - button to open to project details
-  - respond to changes in project
-  - can add new project card
-  - can delete existing project card
-  - can edit elements contained in project card and update the data of project accordingly
+The main homepage requires a dynamic system for managing project cards.
 
-* … <!-- numbers of drivers can vary -->
+- Each project card on the main homepage should contain the following features:
+  - Users should be able to open project details
+  - Users should be able to add a new project card
+  - Users should be able to delete existing project cards
+  - Users should be able to edit the information displayed by the project cards
 
 ## Considered Options
 
-- use static HTML CSS
-- use JS to create new project-card element
-- Use react to inject project-card element
-- … <!-- numbers of options can vary -->
+1. **Use static HTML and CSS**
+   - Pros: Simple to implement, easy to do.
+   - Cons: Does not support interactive features or real-time updates.
+2. **Use JavaScript to create new project-card elements**
+   - Pros: Highly dynamic, supports real-time updates and interactive features.
+   - Cons: Requires more complex coding and testing.
+3. **Use React to inject project-card elements**
+   - Pros: Supports component-based architecture and state management.
+   - Cons: Overhead of including a library and learning curve.
+4. **Use Web Components for encapsulation**
+   - Pros: Encapsulates functionality and styling.
+   - Cons: Steep learning curve.
 
-## Decision Outcome
+## Decision Outcome & Justification
 
-Chosen option: "use JS to create new project-card element", because
-it allows dynamic change of element within the allowed framework
+Chosen option: Use JavaScript to create new project-card elements because it balances dynamic interaction capabilities with relative ease of implementation and maintenance.
 
-<!-- This is an optional element. Feel free to remove. -->
+- The decision leverages JavaScript's flexibility to manipulate the DOM in real-time.
+- JavaScript is familiar to the team, reducing the learning curve and speeding up development.
 
 ### Consequences
 
-- Good, because it does the job
-- Bad, because you need to generate all HTML elements by JS
+- **Positive**: Enhances user interaction by allowing dynamic addition, removal, and editing of project cards directly on the homepage.
+- **Positive**: Facilitates real-time updates to project details without needing to reload the page, improving user experience.
+- **Negative**: Increases complexity in code management. Developers must handle DOM manipulation carefully to avoid performance bottlenecks.
 
-### use static HTML CSS
 
-- Good, because it is simple
-- Good, because it is sensible
-- Bad, because it is hard to duplicate
