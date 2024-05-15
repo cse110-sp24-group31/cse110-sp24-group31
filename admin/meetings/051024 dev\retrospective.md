@@ -1,10 +1,10 @@
-# Retrospective
+# Dev meet
 
 Atendees: Nikhil, Ishan, Kevin, Charlotte, Zhami, Brian, Gavin, Liam
 
 We all met to talk about the previous week's work and any issues people were having with the team. We were able to sort out 2 major issues, with the team work distribution and leadership issues. After sorting these out we reviewed the previous week's work, which was the warmup project. We realized our weak points were related to the issues we were having, and fixed them for the final project. Also as the pitch had been approved, we were able to talk it through and discuss more for the future of the project
 
-# Dev meet
+# Retrospective
 
 Atendees: Nikhil, Ishan, Kevin, Charlotte, Zhami, Zilin, Gavin, Liam
 
