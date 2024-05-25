@@ -6,7 +6,7 @@ Consulted: Nikhil, Charlotte
 Informed: Everyone
 ---
 
-# Contacts Page Setup
+# Contacts Page Setup 
 
 ## Context and Problem Statement
 
