@@ -1,3 +1,7 @@
+# Sprint 3 Review
+- Date: 05/26/2024
+- Attendees: Nikhil, Ishan, Kevin, Charlotte, Zhami, Liam, Zilin, Brian, Gavin, Newton
+
 ## Projects tasks
 Each project is able to be added properly. Images, notes, and calendar are all able to be added properly. Color display for how long the project is works fine. Saves information past refreshes. TO DOs: add checkpoints to incorporate progress bars.
 
@@ -13,4 +17,3 @@ Worked on calendar and add notes function. Interactivity working and dropdown me
 ## Work for next week
 All features completed individually. We also want to start creating test cases and add more to our pipeline for linting and styling. Will also begin e2e and unit tests for functionality of features. We are aiming to have all code pushed to main and not clashing with each other. Also we would like to merge all features onto main homepage rather than each on their own site, which will happen at the end of this week or next depending on how much progress gets done.
 
-Attendees: Nikhil, Ishan, Kevin, Charlotte, Zhami, Liam, Zilin, Brian, Gavin, Newton
