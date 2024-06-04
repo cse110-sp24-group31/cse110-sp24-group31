@@ -30,3 +30,7 @@ Chosen option: Keep the calendar on the main page and use a dropdown option to v
 - **Positive**: Allows user to see days and avoid lag of loading another webpage.
 - **Positive**: Utilizes the space on the homepage better to create a more appealing website, staying competitive with other products
 - **Negative**: User does not have immediate access to notes for a certain day when they click a date (still extremely quick)
+
+### More information
+
+Due a time constraint, we were forced to drop the edit feature of each entry. This means that when a user saves a journal entry for a specific date, they will be unable to change it. This is a feature we would like to implement if we have the time, but have currently left as whatever the user saves being final. However they can add as many notes as they want and delete them, so if an edit were truely wanted to be made, there are still workarounds.
