@@ -6,7 +6,7 @@ Consulted: Nikhil, Charlotte, Zhami
 Informed: Entire team
 ---
 
-# Contacts Page Setup 
+# Calendar Setup 
 
 ## Context and Problem Statement
 
