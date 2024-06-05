@@ -28,17 +28,17 @@ Need to create a contacts page that can contain all relevent information with a 
   - Pros: A bit more thematic should allow for things like coloring to have a more visually appealing page.
   - Cons: Still sort of basic, users might not like how clumped information can look and the simple grid like perspective might not be the cleanest.
 
-3.Create planets where information with a sun form at the top:
+3.Create planets where information with a planet form:
  - Pros: Fits the theme in a really cool way with a good way to fit in an information in a planet-like circle
  - Cons: Much more difficult to implement with constant changes needing to happen when wanting more information, size of planets, etc.
 
 ## Decision Outcome & Justification
 
-Chosen option: Create planets where information with a sun form at the top with javascript alowing for editing of boxes, and a dynamic set of entries with planets to place in the space.
+Chosen option: Create contact blocks with roles aligned with images where information comes from a form on a planet. Has editing features and delete for each person contact that appears.
 
-- This really well aligns with the theme in which a Sun can be the center of the universe of contacts with each planet being their own person.
-- Allows for easy integration with alien figure head to allow for things like categories.
-- ALl information is sepearate and distinct with another allowing for a clean appearance.
+- This really well aligns with the theme in which a planet can be the main idea of the universe of contacts with each block being their own person.
+- Allows for easy integration with alien icons for roles to allow for things like categories.
+- All information is sepearate and distinct with another allowing for a clean appearance.
 
 ### Consequences
 
