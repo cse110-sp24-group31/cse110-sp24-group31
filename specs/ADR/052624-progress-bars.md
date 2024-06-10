@@ -52,3 +52,9 @@ Chosen option: Check and Automatic Fill bars, for simplicity and due to time con
 
 * The "Check" bar has been implemented successfully
 * More information is needed in order to begin work on the Automatic Fill Bar.
+
+## Final Update
+* Both User-Interactive progress bars have been scrapped.
+ * It was decided that each project's progress should be decided by the tasks required to complete the project.
+ * The project's progress will be shown as a percentage of (number of completed tasks) / (number of tasks)
+ * The rocketship visual is still approved.
